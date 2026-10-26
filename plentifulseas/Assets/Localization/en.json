@@ -19,6 +19,9 @@
 	"plentifulseas.beeps_boops.name": "Beeps Boops",
     "plentifulseas.beeps_boops.desc": "The soulless machine that records these waters for an unknown observer.",
 	
+	"plentifulseas.vorarephobia.name": "Vorearephobia",
+	"plentifulseas.vorarephobia.desc": "A gnashing maw tears through the creatures flanks in the effort to gorge itself.",
+	
 	
 	"plentifulseas.dickinsonia.name": "Dickinsonia",
     "plentifulseas.dickinsonia.desc": "Among some of the first multicellular life, its body is not quite symmetrical.",
@@ -45,6 +48,12 @@
 
 	"plentifulseas.finality.name": "Finality",
     "plentifulseas.finality.desc": "Perfection eternal.",
+	
+	"plentifulseas.pinecone_fish.name": "Pinecone Fish",
+	"plentifulseas.pinecone_fish.desc": "A Small yellow fish with large spiny scales.",
+	
+	"plentifulseas.animus_strobilus.name": "Animus Strobilus",
+	"plentifulseas.animus_strobilus.desc": "Lost to it's parental conifer. Adrift.",
  
  
  	"plentifulseas.hyolithid.name": "Hyolithid",
@@ -52,6 +61,12 @@
 	
 	"plentifulseas.scraping_scrap.name": "Scraping Scrap",
     "plentifulseas.scraping_scrap.desc": "Razor blades protrude from it’s jagged crown of sharp obsidian atop a spear head made of shivs.",
+	
+	"plentifulseas.sea_angel.name": "Sea Angel",
+	"plentifulseas.sea_angel.desc": "A gelatinous species of sea slug with a wing-like foot.",
+	
+	"plentifulseas.ice_cupid.name": "Ice Cupid",
+	"plentifulseas.ice_cupid.desc": "Anyone who sees it will find true love... But it will not last.",
 	
 	
 	"plentifulseas.blob_sculpin.name": "Blob Sculpin",

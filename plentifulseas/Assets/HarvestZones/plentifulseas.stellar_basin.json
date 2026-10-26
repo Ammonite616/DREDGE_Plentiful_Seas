@@ -6,7 +6,7 @@
     },
     "colliderType": "SPHERE",
     "radius": 100,
-    "harvestableItems": [ "plentifulseas.dickinsonia", "plentifulseas.pyramid_butterfly" ],
+    "harvestableItems": [ "plentifulseas.dickinsonia", "plentifulseas.pyramid_butterfly", "plentifulseas.sea_angel" ],
     "day": true,
     "night": true
 }

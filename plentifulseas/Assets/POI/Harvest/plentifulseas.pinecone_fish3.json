@@ -1,0 +1,13 @@
+{
+    "location": {
+        "x": 320.0,
+        "y": 0.0,
+        "z": -343.0
+    },
+	"harvestableParticlePrefab": "PerchParticles",
+    "items": [ "plentifulseas.pinecone_fish" ],
+    "startStock": 3,
+    "maxStock": 6,
+    "doesRestock": true,
+    "usesTimeSpecificStock": false
+}

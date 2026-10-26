@@ -1,0 +1,39 @@
+﻿{
+  "itemNameKey": "plentifulseas.pinecone_fish.name",
+  "itemDescriptionKey": "plentifulseas.pinecone_fish.desc",
+  "itemType": "GENERAL",
+  "itemSubtype": "FISH",
+  "sprite": "plentifulseas.pinecone_fish",
+  "itemColor": {
+    "r": 255,
+    "g": 197,
+    "b": 96,
+    "a": 10
+  },
+  "tooltipTextColor": {
+    "r": 122,
+    "g": 96,
+    "b": 71,
+    "a": 255
+  },
+  "squishFactor": 0.7,
+  "value": 6,
+  "dimensions": [
+    "X"
+  ],
+  "zonesFoundIn": "GALE_CLIFFS",
+  "day": true,
+  "night": false,
+  "minSizeCentimeters": 12,
+  "maxSizeCentimeters": 18,
+  "harvestMinigameType": "FISHING_RADIAL",
+  "perSpotMin": 4,
+  "perSpotMax": 7,
+  "harvestPOICategory": "FISH_SMALL",
+  "harvestableType": "COASTAL",
+  "harvestDifficulty": "MEDIUM",
+  "aberrations": ["plentifulseas.animus_strobilus"],
+  "canBeCaughtByRod": true,
+  "canBeCaughtByNet": true
+}
+

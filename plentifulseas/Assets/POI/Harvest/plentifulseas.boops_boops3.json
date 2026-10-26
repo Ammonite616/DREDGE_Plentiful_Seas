@@ -6,8 +6,8 @@
     },
 	"harvestableParticlePrefab": "PerchParticles",
     "items": [ "plentifulseas.boops_boops" ],
-    "startStock": 1,
-    "maxStock": 5,
+    "startStock": 2,
+    "maxStock": 6,
     "doesRestock": true,
     "usesTimeSpecificStock": false
 }

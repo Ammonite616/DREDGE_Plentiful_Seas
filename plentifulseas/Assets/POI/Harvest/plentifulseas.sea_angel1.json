@@ -1,0 +1,13 @@
+{
+    "location": {
+        "x": -334.0,
+        "y": 0.0,
+        "z": -454.0
+    },
+	"harvestableParticlePrefab": "SquidParticles",
+    "items": [ "plentifulseas.sea_angel" ],
+    "startStock": 1,
+    "maxStock": 3,
+    "doesRestock": true,
+    "usesTimeSpecificStock": false
+}

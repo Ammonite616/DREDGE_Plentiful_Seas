@@ -1,0 +1,40 @@
+﻿{
+  "itemNameKey": "plentifulseas.animus_strobilus.name",
+  "itemDescriptionKey": "plentifulseas.animus_strobilus.desc",
+  "itemType": "GENERAL",
+  "itemSubtype": "FISH",
+  "sprite": "plentifulseas.animus_strobilus",
+  "itemColor": {
+    "r": 136,
+    "g": 0,
+    "b": 76,
+    "a": 255
+  },
+  "tooltipTextColor": {
+    "r": 136,
+    "g": 0,
+    "b": 76,
+    "a": 255
+  },
+  "squishFactor": 0,
+  "value": 32,
+  "dimensions": [
+    "X"
+  ],
+  "zonesFoundIn": "GALE_CLIFFS",
+  "day": true,
+  "night": false,
+  "minSizeCentimeters": 12,
+  "maxSizeCentimeters": 18,
+  "harvestMinigameType": "FISHING_RADIAL",
+  "perSpotMin": 4,
+  "perSpotMax": 7,
+  "harvestPOICategory": "FISH_SMALL",
+  "harvestableType": "COASTAL",
+  "harvestDifficulty": "MEDIUM",
+  "isAberration": true,
+  "nonAberrationParent": "plentifulseas.pinecone_fish",
+  "canBeCaughtByRod": true,
+  "canBeCaughtByNet": true
+}
+

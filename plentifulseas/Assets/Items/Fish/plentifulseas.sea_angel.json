@@ -1,0 +1,40 @@
+﻿{
+  "itemNameKey": "plentifulseas.sea_angel.name",
+  "itemDescriptionKey": "plentifulseas.sea_angel.desc",
+  "itemType": "GENERAL",
+  "itemSubtype": "FISH",
+  "sprite": "plentifulseas.sea_angel",
+  "itemColor": {
+    "r": 255,
+    "g": 197,
+    "b": 96,
+    "a": 10
+  },
+  "tooltipTextColor": {
+    "r": 122,
+    "g": 96,
+    "b": 71,
+    "a": 255
+  },
+  "squishFactor": 1,
+  "value": 30,
+  "dimensions": [
+    "X",
+	"X"
+  ],
+  "zonesFoundIn": "STELLAR_BASIN",
+  "day": false,
+  "night": true,
+  "minSizeCentimeters": 0.5,
+  "maxSizeCentimeters": 3.2,
+  "harvestMinigameType": "FISHING_DIAMOND",
+  "perSpotMin": 4,
+  "perSpotMax": 8,
+  "harvestPOICategory": "FISH_SMALL",
+  "harvestableType": "OCEANIC",
+  "harvestDifficulty": "HARD",
+  "aberrations": ["plentifulseas.ice_cupid"],
+  "canBeCaughtByRod": true,
+  "canBeCaughtByNet": true
+}
+
