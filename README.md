@@ -29,7 +29,7 @@ Method: Trawling & Fishing - Mangrove<br/>
 _Boops boops_<br/>
 Location: The Marrows<br/>
 Method: Trawling & Fishing - Coastal<br/>
-(1 abberation)
+(2 abberations)
 ### **Blob Sculpin**<br/>
 _Psychrolutes phrictus_<br/>
 Location: Open ocean between the Twisted Strand and the Stellar Basin<br/>
@@ -49,6 +49,18 @@ Method: Trawling & Fishing - Coastal<br/>
 Genus: † Dickinsonia<br/>
 Location: Stellar Basin<br/>
 Method: Crabbing<br/>
+(1 abberation)
+
+### **Pinecone Fish**<br/>
+_Monocentridae_<br/>
+Location: Gale Cliffs<br/>
+Method: Trawling & Fishing - Coastal<br/>
+(1 abberation)
+
+### **Sea Angel**<br/>
+_Gymnosomata_<br/>
+Location: Stellar Basin (night)<br/>
+Method: Trawling & Fishing - Oceanic<br/>
 (1 abberation)
 
 ## **TO-DO List:**
