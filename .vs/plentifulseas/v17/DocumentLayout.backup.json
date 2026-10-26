@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Owner\\Documents\\dredgemodding\\kite.plentifulseas\\DREDGE_Plentiful_Seas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8990935D-3171-2636-5F19-758903A5B8DF}|plentifulseas\\plentifulseas.csproj|c:\\users\\owner\\documents\\dredgemodding\\kite.plentifulseas\\dredge_plentiful_seas\\plentifulseas\\assets\\items\\fish\\plentifulseas.hyolithid.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8990935D-3171-2636-5F19-758903A5B8DF}|plentifulseas\\plentifulseas.csproj|solutionrelative:plentifulseas\\assets\\items\\fish\\plentifulseas.hyolithid.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8990935D-3171-2636-5F19-758903A5B8DF}|plentifulseas\\plentifulseas.csproj|c:\\users\\owner\\documents\\dredgemodding\\kite.plentifulseas\\dredge_plentiful_seas\\plentifulseas\\mod_meta.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8990935D-3171-2636-5F19-758903A5B8DF}|plentifulseas\\plentifulseas.csproj|solutionrelative:plentifulseas\\mod_meta.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -17,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{8990935D-3171-2636-5F19-758903A5B8DF}|plentifulseas\\plentifulseas.csproj|c:\\users\\owner\\documents\\dredgemodding\\kite.plentifulseas\\dredge_plentiful_seas\\plentifulseas\\plentifulseas.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{8990935D-3171-2636-5F19-758903A5B8DF}|plentifulseas\\plentifulseas.csproj|solutionrelative:plentifulseas\\plentifulseas.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8990935D-3171-2636-5F19-758903A5B8DF}|plentifulseas\\plentifulseas.csproj|c:\\users\\owner\\documents\\dredgemodding\\kite.plentifulseas\\dredge_plentiful_seas\\plentifulseas\\assets\\items\\fish\\plentifulseas.hyolithid.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8990935D-3171-2636-5F19-758903A5B8DF}|plentifulseas\\plentifulseas.csproj|solutionrelative:plentifulseas\\assets\\items\\fish\\plentifulseas.hyolithid.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "plentifulseas.hyolithid.json",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\dredgemodding\\kite.plentifulseas\\DREDGE_Plentiful_Seas\\plentifulseas\\Assets\\Items\\Fish\\plentifulseas.hyolithid.json",
               "RelativeDocumentMoniker": "plentifulseas\\Assets\\Items\\Fish\\plentifulseas.hyolithid.json",
@@ -38,37 +38,35 @@
               "RelativeToolTip": "plentifulseas\\Assets\\Items\\Fish\\plentifulseas.hyolithid.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-11T19:53:05.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-11T19:53:05.867Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "mod_meta.json",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\dredgemodding\\kite.plentifulseas\\DREDGE_Plentiful_Seas\\plentifulseas\\mod_meta.json",
               "RelativeDocumentMoniker": "plentifulseas\\mod_meta.json",
               "ToolTip": "C:\\Users\\Owner\\Documents\\dredgemodding\\kite.plentifulseas\\DREDGE_Plentiful_Seas\\plentifulseas\\mod_meta.json",
               "RelativeToolTip": "plentifulseas\\mod_meta.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-10-11T19:51:43.738Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "plentifulseas",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\dredgemodding\\kite.plentifulseas\\DREDGE_Plentiful_Seas\\plentifulseas\\plentifulseas.csproj",
               "RelativeDocumentMoniker": "plentifulseas\\plentifulseas.csproj",
               "ToolTip": "C:\\Users\\Owner\\Documents\\dredgemodding\\kite.plentifulseas\\DREDGE_Plentiful_Seas\\plentifulseas\\plentifulseas.csproj",
               "RelativeToolTip": "plentifulseas\\plentifulseas.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-02T16:52:54.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T16:52:54.872Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "plentifulseas.cs",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\dredgemodding\\kite.plentifulseas\\DREDGE_Plentiful_Seas\\plentifulseas\\plentifulseas.cs",
               "RelativeDocumentMoniker": "plentifulseas\\plentifulseas.cs",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "plentifulseas\\plentifulseas.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T16:42:52.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T16:42:52.792Z"
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("plentifulseas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+549a671dd820403d1d1ddf30c579fedf61be2980")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ad0d7570df79a948fc32af1e520741e34fbcf47")]
 [assembly: System.Reflection.AssemblyProductAttribute("plentifulseas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("plentifulseas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 {
     "location": {
-        "x": -443.0,
+        "x": -345.0,
         "y": 0.0,
-        "z": 79.0
+        "z": 447.0
     },
 	"harvestableParticlePrefab": "PerchParticles",
     "items": [ "plentifulseas.seed_shrimp" ],

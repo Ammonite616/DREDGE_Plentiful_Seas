@@ -5,7 +5,7 @@
         "z": -450.0
     },
     "colliderType": "SPHERE",
-    "radius": 100,
+    "radius": 200,
     "harvestableItems": [ "plentifulseas.etacystis", "plentifulseas.pinecone_fish" ],
     "day": true,
     "night": true

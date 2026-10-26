@@ -5,7 +5,7 @@
         "z": -450.0
     },
     "colliderType": "SPHERE",
-    "radius": 100,
+    "radius": 200,
     "harvestableItems": [ "plentifulseas.dickinsonia", "plentifulseas.pyramid_butterfly", "plentifulseas.sea_angel" ],
     "day": true,
     "night": true

@@ -5,7 +5,7 @@
         "z": 0
     },
     "colliderType": "SPHERE",
-    "radius": 62.5,
+    "radius": 100,
     "harvestableItems": [ "plentifulseas.living_trauma" ],
     "day": true,
     "night": true
